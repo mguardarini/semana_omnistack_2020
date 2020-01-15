@@ -1,0 +1,10 @@
+{
+  "name": "semana_omnistack_2020",
+  "version": "1.0.0",
+  "description": "projeto com o intuito de fazer a semana omnistack",
+  "main": "app.js",
+  "repository": "https://github.com/mguardarini/semana_omnistack_2020.git",
+  "author": "Mauro Guardarini",
+  "license": "MIT",
+  "private": null
+}
