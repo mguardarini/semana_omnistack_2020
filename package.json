@@ -6,5 +6,13 @@
   "repository": "https://github.com/mguardarini/semana_omnistack_2020.git",
   "author": "Mauro Guardarini",
   "license": "MIT",
-  "private": null
+  "dependencies": {
+    "axios": "^0.19.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7",
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  }
 }
