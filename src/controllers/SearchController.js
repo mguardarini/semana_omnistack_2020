@@ -23,4 +23,11 @@ module.exports = {
         })
         return response.json({devs});
     }
+
+    async update(request, response) {
+        //Atualizar dev
+    }
+    async destroy(request, response){
+        //Deletar dev;
+    }
 }
